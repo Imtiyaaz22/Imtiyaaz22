@@ -8,9 +8,8 @@ I'm excited to introduce myself as a Frontend Developer based in Cape Town, Sout
 
 * 🌍  I'm based in Cape Town, Western Cape, South Africa
 * 🖥️  See my portfolio at [ImtiyaazDev](http://imtiyaazdev.vercel.app/)
-* ✉️  You can contact me at [Imtiyaazmac@gmail.com](mailto:Imtiyaazmac@gmail.com)
-* 🚀  I'm currently working on [Weather Wise](http://weather-wise-imtiyaaz.vercel.app)
-* 🧠  I'm learning Typescript && Node.js
+* 🚀  I'm currently working on [Daily Stride](https://daily-stride-web.vercel.app/)
+* 🧠  I'm learning Three.js
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
